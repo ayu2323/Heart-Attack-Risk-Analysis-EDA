@@ -29,6 +29,7 @@ Bivariate Analysis (Heart_Attack vs key variables)
 Correlation Analysis on numeric features
 
 **Key Insights**
+
 Medical history variables such as Hypertension, Diabetes, Obesity, and Previous Heart Attack show strong association with heart attack occurrence.
 
 Lifestyle factors like poor diet and low physical activity act as supporting risk contributors.
